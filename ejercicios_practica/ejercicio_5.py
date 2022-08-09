@@ -44,7 +44,8 @@ if __name__ == '__main__':
 
     # 1) Primero generar una lista de invitados con "generar_invitados"
     #    Almacenar el resultado en "lista_invitados"
-    cantidad= 3
+    cantidad = 3
+
     lista_invitados = generar_invitados(cantidad)
 
     # 2) Luego ordenar la lista de invitados con "ordenar"
